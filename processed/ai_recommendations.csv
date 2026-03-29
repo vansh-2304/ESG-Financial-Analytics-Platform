@@ -1,0 +1,11 @@
+ticker,financial_pillar,esg_pillar,sentiment_pillar,ai_composite_score,ai_recommendation,confidence,avg_sentiment,predicted_esg_2024
+MSFT,76.5,89.8,50.1,75.22,Strong Buy,Medium,0.002033,90.4
+AAPL,77.11,86.55,50.58,74.25,Strong Buy,Medium,0.01165,86.73
+NEE,35.77,79.4,67.74,61.21,Buy,Low,0.354866,85.0
+JPM,52.36,56.35,48.66,53.03,Hold,Low,-0.026883,67.23
+UL,13.69,74.36,57.3,48.86,Hold,Low,0.14595,79.7
+JNJ,24.93,61.1,52.31,46.24,Hold,Low,0.046133,72.63
+AMZN,9.19,57.12,65.82,42.52,Underperform,Low,0.3165,60.5
+TSLA,13.67,40.41,47.02,32.7,Underperform,Medium,-0.0597,55.2
+CVX,15.86,16.24,66.41,28.65,Sell,Medium,0.328133,46.33
+XOM,17.25,1.8,47.17,18.55,Sell,High,-0.056666,42.27

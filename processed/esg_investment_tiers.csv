@@ -1,0 +1,11 @@
+ticker,score_year,environmental_score,social_score,governance_score,carbon_intensity,weighted_esg_score,carbon_score,esg_momentum,calculated_rating,investment_tier
+AAPL,2023,87.0,82.0,84.0,2.6,84.6,97.27,2.0,AA,Buy
+AMZN,2023,62.0,50.0,63.0,18.3,58.7,80.82,3.4,BBB,Underperform
+CVX,2023,35.0,48.0,52.0,80.1,44.0,16.04,2.4,B,Underperform
+JNJ,2023,68.0,73.0,72.0,8.1,70.7,91.51,1.3,A,Hold
+JPM,2023,62.0,69.0,66.0,11.2,65.3,88.26,2.0,A,Buy
+MSFT,2023,88.0,87.0,90.0,1.7,88.3,98.22,2.0,AAA,Strong Buy
+NEE,2023,92.0,76.0,78.0,6.5,83.0,93.19,2.0,AA,Buy
+TSLA,2023,78.0,42.0,33.0,12.5,53.7,86.9,2.3,BB,Buy
+UL,2023,76.0,80.0,77.0,8.7,77.5,90.88,2.0,AA,Hold
+XOM,2023,33.0,45.0,47.0,87.3,40.8,8.49,2.1,B,Underperform

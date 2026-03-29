@@ -1,0 +1,11 @@
+ticker,predicted_esg_2024,annual_esg_trend,model_r2,trend_label
+AAPL,86.73,2.15,0.9955,Improving ↑
+AMZN,60.5,2.85,0.9918,Improving ↑
+CVX,46.33,2.4,0.9977,Improving ↑
+JNJ,72.63,1.6,0.9796,Improving ↑
+JPM,67.23,1.85,0.9998,Improving ↑
+MSFT,90.4,2.0,1.0,Improving ↑
+NEE,85.0,1.8,1.0,Improving ↑
+TSLA,55.2,1.8,0.9908,Improving ↑
+UL,79.7,2.0,1.0,Improving ↑
+XOM,42.27,1.75,0.9932,Improving ↑

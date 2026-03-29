@@ -1,0 +1,61 @@
+ticker,headline,compound_score,label
+AAPL,Apple reports record iPhone sales driven by AI features...,0.0,Neutral
+AAPL,Apple faces antitrust scrutiny over App Store policies...,0.0,Neutral
+AAPL,Apple Vision Pro disappoints with slow adoption rate...,-0.1531,Negative
+AAPL,Apple expands renewable energy commitment to 100% globally...,0.6249,Positive
+AAPL,Supply chain concerns emerge for Apple amid Taiwan tensions...,-0.4019,Negative
+AAPL,Apple Services revenue hits all-time high in Q4...,0.0,Neutral
+MSFT,Microsoft Copilot drives record Azure cloud revenue growth...,0.3818,Positive
+MSFT,Microsoft acquires AI startup to bolster enterprise offering...,0.0,Neutral
+MSFT,Microsoft named top ESG technology company by MSCI...,0.2023,Positive
+MSFT,Microsoft faces EU regulatory probe over Teams bundling...,0.0,Neutral
+MSFT,Microsoft carbon negative target on track for 2030...,-0.5719,Negative
+MSFT,Microsoft enterprise AI adoption surpasses analyst expectati...,0.0,Neutral
+XOM,Exxon faces investor pressure over climate change strategy...,-0.296,Negative
+XOM,Exxon reports strong quarterly profits on high oil prices...,0.7351,Positive
+XOM,Exxon carbon capture project faces regulatory delays...,0.0,Neutral
+XOM,Exxon shareholders reject enhanced climate disclosure propos...,-0.4019,Negative
+XOM,Exxon accused of misleading public on climate risks...,-0.7184,Negative
+XOM,Exxon increases dividend despite ESG criticism from funds...,0.3412,Positive
+NEE,NextEra Energy wins largest solar contract in US history...,0.7003,Positive
+NEE,NextEra raises clean energy investment target to $150bn...,0.5859,Positive
+NEE,NextEra named most sustainable utility by Dow Jones Index...,0.0,Neutral
+NEE,NextEra wind farm project approved in Midwest expansion...,0.4215,Positive
+NEE,NextEra partners with hydrogen storage technology startup...,0.0,Neutral
+NEE,NextEra beats earnings estimates on strong renewables demand...,0.4215,Positive
+JPM,JPMorgan increases sustainable finance commitment to $2.5 tr...,0.3818,Positive
+JPM,JPMorgan faces criticism for continued fossil fuel financing...,-0.4404,Negative
+JPM,JPMorgan AI trading platform reduces operational costs by 20...,0.0,Neutral
+JPM,JPMorgan reports record investment banking fees in Q3...,0.0,Neutral
+JPM,JPMorgan CEO warns of economic headwinds in 2024 outlook...,-0.1027,Negative
+JPM,JPMorgan launches green bond fund for institutional investor...,0.0,Neutral
+TSLA,Tesla Cybertruck production ramp exceeds initial forecasts...,0.0,Neutral
+TSLA,Tesla faces union organizing efforts at Nevada gigafactory...,0.0,Neutral
+TSLA,Tesla CEO compensation package rejected by shareholders agai...,-0.5106,Negative
+TSLA,Tesla FSD technology achieves breakthrough in safety metrics...,0.4215,Positive
+TSLA,Tesla cuts prices aggressively amid rising EV competition...,-0.5423,Negative
+TSLA,Tesla energy storage business grows 150% year over year...,0.2732,Positive
+JNJ,Johnson & Johnson talc settlement clears path for Kenvue spi...,0.0772,Positive
+JNJ,JNJ oncology pipeline shows promising Phase 3 trial results...,0.4019,Positive
+JNJ,JNJ raises dividend for 61st consecutive year...,0.0,Neutral
+JNJ,JNJ faces new litigation over surgical mesh products...,-0.2023,Negative
+JNJ,JNJ MedTech division outperforms amid aging population trend...,0.0,Neutral
+JNJ,JNJ named to Dow Jones Sustainability Index for 25th year...,0.0,Neutral
+AMZN,Amazon AWS revenue growth accelerates on AI infrastructure d...,0.4215,Positive
+AMZN,Amazon faces labor strike at multiple fulfillment centers...,0.0516,Positive
+AMZN,Amazon antitrust case proceeds in federal court...,0.1779,Positive
+AMZN,Amazon Prime membership crosses 200 million globally...,0.1779,Positive
+AMZN,Amazon announces 100000 new renewable energy projects...,0.4215,Positive
+AMZN,Amazon same-day delivery expansion drives market share gains...,0.6486,Positive
+CVX,Chevron Hess acquisition faces FTC regulatory challenge...,0.0772,Positive
+CVX,Chevron increases share buyback program to $75 billion...,0.296,Positive
+CVX,Chevron faces criticism over slow energy transition progress...,0.25,Positive
+CVX,Chevron reports strong free cash flow on oil price strength...,0.8689,Positive
+CVX,Chevron carbon capture investment doubled in 2023...,0.0,Neutral
+CVX,Chevron shareholders push for stronger climate commitments...,0.4767,Positive
+UL,Unilever sustainability brands outperform conventional portf...,0.0,Neutral
+UL,Unilever CEO presents new growth strategy to investors...,0.3818,Positive
+UL,Unilever divests ice cream unit to focus on core categories...,0.0,Neutral
+UL,Unilever achieves plastic packaging reduction targets ahead ...,0.0,Neutral
+UL,Unilever raises prices successfully despite consumer pushbac...,0.4939,Positive
+UL,Unilever named global leader in sustainable sourcing practic...,0.0,Neutral
