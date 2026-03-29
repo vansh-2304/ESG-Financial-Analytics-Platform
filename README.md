@@ -206,6 +206,7 @@ python python/pipeline_validation.py
 
 **Vansh Goyal**
 - 📧 [vggoyal2304@gmail.com]
+- 💼 [www.linkedin.com/in/vansh-goyal-fin]
 
 ---
 
