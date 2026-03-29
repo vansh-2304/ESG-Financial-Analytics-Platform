@@ -7,6 +7,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+![Executive Overview](screenshots/01_executive_overview.png)
 ![Architecture](docs/architecture_diagram.svg)
 
 > An end-to-end financial analytics platform simulating real-world investment banking workflows —
